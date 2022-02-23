@@ -1,0 +1,27 @@
+{
+  "values" : [ {
+    "serviceId" : "init"
+  }, {
+    "serviceId" : "maven"
+  }, {
+    "serviceId" : "java-base"
+  }, {
+    "serviceId" : "jacoco-check-min-coverage"
+  }, {
+    "serviceId" : "springboot"
+  }, {
+    "serviceId" : "springboot-tomcat"
+  }, {
+    "serviceId" : "springboot-actuator"
+  }, {
+    "serviceId" : "springdoc-openapi"
+  }, {
+    "serviceId" : "postgresql"
+  }, {
+    "serviceId" : "user-and-authority-entities-postgresql"
+  }, {
+    "serviceId" : "flyway"
+  }, {
+    "serviceId" : "flyway-user-and-authority-changelogs"
+  } ]
+}
